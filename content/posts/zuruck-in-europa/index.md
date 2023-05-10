@@ -7,7 +7,7 @@ description = "Nachdem der Luchs Anfang des 20. Jahrhunderts in Westeuropa ausge
 +++
 # Der Luchs ist wieder da!
 
-![](lynx-79_1280.jpg "Abbildung 1 Luchs im Schnee @Artur Pawlak")
+![Abbildung 1 Luchs im Schnee @Artur Pawlak](lynx-79_1280.jpg "Abbildung 1 Luchs im Schnee @Artur Pawlak")
 
 Für gewöhnlich sind Gehege in Zoos gut einsehbar, damit die Besucher gut hineinsehen und die Tiere beobachten können. Dies ist im Moment aber anders beim Luchsgehege des Dählhölzlis. Es wurden Büsche und kleinere Bäume vor den Zaun gepflanzt, die die Sicht auf das Gehege erschweren. Sowieso muss man Glück haben, die Luchse überhaupt mal zu erspähen. Oft wenn man vor dem Gehege steht, läuft vielleicht ab und zu mal ein Jogger oder ein Spaziergänger vorbei, aber von den Luchsen sieht nichts, aber in der Luft liegt ein typisch verräterischer Duft einer Katze, die ihr Revier markiert.
 
@@ -23,7 +23,7 @@ Vogt erklärt mir, dass man diese Situation verbessern möchte und innerhalb ein
 
 Das aktuelle Geschehen rund um das Luchsgehege im Dählhölzli, ist nämlich genau so ein Wiederansiedlungsprojekt, welches unter anderen von KORA koordiniert wird. Die beiden Luchse wurden auf Grund ihrer Genetik ausgewählt und man hofft auf den genetisch wertvollen Nachwuchs, der dann in Deutschland ausgewildert werden soll. Aber um die Tiere wirklich freilassen zu dürfen, kommen noch einige Hürden auf sie zu.
 
-![](young-lynx-7132789_1280.jpg "Abbildung 2 Junger Luchs @Nathalie Burblis")
+![Abbildung 2 Junger Luchs @Nathalie Burblis](young-lynx-7132789_1280.jpg "Abbildung 2 Junger Luchs @Nathalie Burblis")
 
 Bei vielen kommt wohl schnell die Frage auf, wie wahrscheinlich es überhaupt ist, dass die jungen Luchse ausgewildert werden können, sie kommen schliesslich in Gefangenschaft zur Welt. Dina Gebhardt erklärt dazu, dass man das noch nicht sagen könne. Es komme sehr auf ihr späteres Verhalten an. So müsse man Verhaltensprotokolle führen, um zu entscheiden, ob ein Luchs ausgewildert werden darf oder nicht. Ein Faktor ist beispielsweise, ihr Verhalten gegenüber Menschen. Wenn sie keine Scheu vor Menschen haben oder gar frech zu ihnen sind, sei dies ein Zeichen, dass es wahrscheinlich nicht funktionieren werde mit der Auswilderung.
 
@@ -37,6 +37,8 @@ Dass der Luchs heute in dieser Lage steckt, hat er uns Menschen zu verdanken. In
 
 Hauptursache für die Ausrottung des Luchses war, dass Raubtieren wie dem Luchs ganz generell Eigenschaften wie Mordlust und Blutdurst zugeschrieben wurden und es bis in das 19. Jahrhundert als Christenpflicht angesehen wurde, diese zu jagen und zu bekämpfen. Diese Motivation wurde durch Abschussprämien noch erhöht. Dazu beigetragen hat auch noch der Rückgang der Waldfläche und der Beutetiere.  
 
+
+
 Heute hat sich die Einstellung Wildtieren gegenüber verändert, Raubtiere zum Beispiel werden normalerweise nicht mehr als blutrünstige Kreaturen angesehen. Was aber geblieben ist, ist die Konkurrenz von Luchsen gegenüber den Jägern. Ein Luchs frisst etwa ein Reh pro Woche. In einem Gebiet, in dem die Luchse den Bestand der Rehe usw. regulieren, dürfen Jäger nicht mehr jagen. Dies ist laut einer Umfrage in Tschechien der Hauptgrund für die Wilderei an Luchsen. Der zweithäufigste Grund sei der Trophäenstatus, welchen ein Luchs und sein Pelz haben.
 
 Auch Kristina Vogt sagt: «Ja Wilderei gibt es nach wie vor. Nicht nur in der Schweiz, sondern auch an anderen Orten.». Es sei aber schwierig zu sagen, in welchem Ausmass dies stattfinde. Feststeht, dass der Luchs ein geschütztes Tier ist und nur in seltenen und speziellen Fällen eine Abschussbewilligung ausgestellt wird.
@@ -45,7 +47,7 @@ Auch Kristina Vogt sagt: «Ja Wilderei gibt es nach wie vor. Nicht nur in der Sc
 
 Wie man bereits aus der Erzählung am Anfang schliessen kann, ist es sogar im Zoo sehr schwer einen Luchs zu erspähen. Obwohl er mittlerweile sogar in Regionen lebt, die nah von dichtbesiedelten Gebieten sind wie Bern, wird es schwierig sein eine der Pinselohren zu Gesicht zu bekommen in freier Natur. Trotzdem sollte man immer die Augen offenhalten, wenn man im Wald unterwegs ist, besonders in den Wintermonaten hat man die Chance Spuren im Schnee entdecken zu können. Auch ein Indiz kann der Geruch der Tiere sein, wenn man einer Stelle vorbeikommt, wo der Luchs sein Revier markiert hat. 
 
-![](signal-2023-01-21-170150-1.jpeg "Abbildung 3 Luchsspuren im Schnee @Jaël Zurfluh")
+![Abbildung 3 Luchsspuren im Schnee @Jaël Zurfluh](signal-2023-01-21-170150-1.jpeg "Abbildung 3 Luchsspuren im Schnee @Jaël Zurfluh")
 
 Angst muss man vor der grössten Wildkatze der Schweiz gottseidank nicht haben, Luchse halten sich stehts eher zurück. Auch Vorfälle mit Nutztieren sind bei Luchsen eher eine Seltenheit. Ein toller Fact, den Dina nach dem Interview noch erwähnt hat, war, dass in der Schweiz die meisten Leute noch nie einen Luchs gesehen haben aber wahrscheinlich schon mal von einem Luchs beobachtet wurden.
 
