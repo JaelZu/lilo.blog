@@ -13,6 +13,16 @@ Für gewöhnlich sind Gehege in Zoos gut einsehbar, damit die Besucher gut hinei
 
 Die beiden Luchse im Gehege sind erst seit Februar hier in Bern, ein Weibchen und ein Männchen. Die beiden Tiere sind Teil eines Projektes, welches zum Ziel hat, den Nachwuchs der beiden Katzen auszuwildern.  Genaueres über das Projekt erzählt mir Kristina Vogt von KORA, und Dina Gebhardt, Zuchtbuchführerin des Eurasischen Luchses. Dina kümmert sich in den europäischen Zoos darum, dass die genetische Vielfalt der Luchse hoch bleibt, indem sie sicher geht, dass in Zoos beispielsweise unter den Tieren keine Inzucht vorkommt. Sie ist also eine Art Verkupplerin für Luchse, erklärt sie mir, während wir im warmen und feuchten Vivarium des Tierparks Bern, in einem Pausenraum für die Mitarbeiter sitzen.
 
+<!--StartFragment-->
+
+`{{</box>}}`
+
+KORA ist eine Stiftung, die sich mit der Raubtierökologie und Wildtiermanagement in der Schweiz beschäftigt.
+
+`{{</box>}}`
+
+##### <!--EndFragment-->
+
 ## Das Problem der Gene
 
 In der Schweiz gibt es momentan wieder drei beständige, wildlebende Luchspopulationen, in den Alpen, dem Jura und der Nordostschweiz. Diese kamen jedoch nicht von allein wieder zurück. Anders als beispielsweise beim Wolf wurden Luchse aus den Karpaten (Ukraine, Slowakei und Rumänien) aktiv hergebracht und wieder angesiedelt. Das aktuell grösste Problem dieser drei Bestände ist ein genetisches. Die verschiedenen Bestände sind voneinander isoliert, menschliche Hürden wie Autobahnen oder Siedlungsgebiete erschweren den Austausch zwischen den verschiedenen Populationen sehr. Dies führt laut Kristina Vogt seit der Gründung der Population zu einer Abnahme der genetischen Vielfalt und zu einer Zunahme von Inzucht in den drei Regionen. Dasselbe Problem gibt es in fast allen Westeuropäischen Ländern, die den Luchs wieder angesiedelt haben.
@@ -50,13 +60,3 @@ Wie man bereits aus der Erzählung am Anfang schliessen kann, ist es sogar im Zo
 ![Abbildung 3 Luchsspuren im Schnee @Jaël Zurfluh](signal-2023-01-21-170150-1.jpeg "Abbildung 3 Luchsspuren im Schnee @Jaël Zurfluh")
 
 Angst muss man vor der grössten Wildkatze der Schweiz gottseidank nicht haben, Luchse halten sich stehts eher zurück. Auch Vorfälle mit Nutztieren sind bei Luchsen eher eine Seltenheit. Ein toller Fact, den Dina nach dem Interview noch erwähnt hat, war, dass in der Schweiz die meisten Leute noch nie einen Luchs gesehen haben aber wahrscheinlich schon mal von einem Luchs beobachtet wurden.
-
-<!--StartFragment-->
-
-`{{</box>}}`
-
-KORA ist eine Stiftung, die sich mit der Raubtierökologie und Wildtiermanagement in der Schweiz beschäftigt.
-
-`{{</box>}}`
-
-##### <!--EndFragment-->
