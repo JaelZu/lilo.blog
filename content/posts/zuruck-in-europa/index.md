@@ -45,9 +45,9 @@ Da es eine politische Frage ist, ist es schwer zu sagen, ob so ein Auswilderungs
 
 Dass der Luchs heute in dieser Lage steckt, hat er uns Menschen zu verdanken. Interessanterweise nimmt der Luchs im Vergleich zum Wolf und Bären kulturhistorisch nur eine Nebenrolle ein. Der Luchs kommt beispielsweise viel seltener in Märchen, Sagen und Mythen vor als der Wolf. Dies war aber für den Luchs immer eher positiv, da die Sichtweise der Menschen ihm gegenüber weniger kulturell geprägt war. In der Jagdliteratur wird der Luchs oft als Konkurrent des Jägers angesehen, aber auch als eine gute Beute.
 
+![Abbildung 3 Wolf in Märchen @duncan1890](istockphoto-479256936-1024x1024.jpg)
+
 Hauptursache für die Ausrottung des Luchses war, dass Raubtieren wie dem Luchs ganz generell Eigenschaften wie Mordlust und Blutdurst zugeschrieben wurden und es bis in das 19. Jahrhundert als Christenpflicht angesehen wurde, diese zu jagen und zu bekämpfen. Diese Motivation wurde durch Abschussprämien noch erhöht. Dazu beigetragen hat auch noch der Rückgang der Waldfläche und der Beutetiere.  
-
-
 
 Heute hat sich die Einstellung Wildtieren gegenüber verändert, Raubtiere zum Beispiel werden normalerweise nicht mehr als blutrünstige Kreaturen angesehen. Was aber geblieben ist, ist die Konkurrenz von Luchsen gegenüber den Jägern. Ein Luchs frisst etwa ein Reh pro Woche. In einem Gebiet, in dem die Luchse den Bestand der Rehe usw. regulieren, dürfen Jäger nicht mehr jagen. Dies ist laut einer Umfrage in Tschechien der Hauptgrund für die Wilderei an Luchsen. Der zweithäufigste Grund sei der Trophäenstatus, welchen ein Luchs und sein Pelz haben.
 
@@ -57,6 +57,6 @@ Auch Kristina Vogt sagt: «Ja Wilderei gibt es nach wie vor. Nicht nur in der Sc
 
 Wie man bereits aus der Erzählung am Anfang schliessen kann, ist es sogar im Zoo sehr schwer einen Luchs zu erspähen. Obwohl er mittlerweile sogar in Regionen lebt, die nah von dichtbesiedelten Gebieten sind wie Bern, wird es schwierig sein eine der Pinselohren zu Gesicht zu bekommen in freier Natur. Trotzdem sollte man immer die Augen offenhalten, wenn man im Wald unterwegs ist, besonders in den Wintermonaten hat man die Chance Spuren im Schnee entdecken zu können. Auch ein Indiz kann der Geruch der Tiere sein, wenn man einer Stelle vorbeikommt, wo der Luchs sein Revier markiert hat. 
 
-![Abbildung 3 Luchsspuren im Schnee @Jaël Zurfluh](signal-2023-01-21-170150-1.jpeg "Abbildung 3 Luchsspuren im Schnee @Jaël Zurfluh")
+![Abbildung 4 Luchsspuren im Schnee @Jaël Zurfluh](signal-2023-01-21-170150-1.jpeg "Abbildung 4 Luchsspuren im Schnee @Jaël Zurfluh")
 
 Angst muss man vor der grössten Wildkatze der Schweiz gottseidank nicht haben, Luchse halten sich stehts eher zurück. Auch Vorfälle mit Nutztieren sind bei Luchsen eher eine Seltenheit. Ein toller Fact, den Dina nach dem Interview noch erwähnt hat, war, dass in der Schweiz die meisten Leute noch nie einen Luchs gesehen haben aber wahrscheinlich schon mal von einem Luchs beobachtet wurden.
