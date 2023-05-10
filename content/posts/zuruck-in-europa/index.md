@@ -57,4 +57,6 @@ Angst muss man vor der grössten Wildkatze der Schweiz gottseidank nicht haben, 
 
 KORA ist eine Stiftung, die sich mit der Raubtierökologie und Wildtiermanagement in der Schweiz beschäftigt.
 
+`{{</box>}}`
+
 ##### <!--EndFragment-->
