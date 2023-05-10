@@ -51,6 +51,10 @@ Wie man bereits aus der Erzählung am Anfang schliessen kann, ist es sogar im Zo
 
 Angst muss man vor der grössten Wildkatze der Schweiz gottseidank nicht haben, Luchse halten sich stehts eher zurück. Auch Vorfälle mit Nutztieren sind bei Luchsen eher eine Seltenheit. Ein toller Fact, den Dina nach dem Interview noch erwähnt hat, war, dass in der Schweiz die meisten Leute noch nie einen Luchs gesehen haben aber wahrscheinlich schon mal von einem Luchs beobachtet wurden.
 
-Kora infobox
+<!--StartFragment-->
+
+{{<box>}}
 
 KORA ist eine Stiftung, die sich mit der Raubtierökologie und Wildtiermanagement in der Schweiz beschäftigt.
+
+<!--EndFragment-->
