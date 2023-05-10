@@ -8,6 +8,9 @@ description = "Nachdem der Luchs Anfang des 20. Jahrhunderts in Westeuropa ausge
 +++
 # Der Luchs ist wieder da!
 
+Nachdem der Luchs Anfang des 20. Jahrhunderts in Westeuropa ausgerottet wurde, ist er jetzt wieder zurückgekehrt. Diese Rückkehr ist aber nicht ganz so einfach, wie man es sich wünschen würde. Über die Herausforderungen der Wiederansiedlung, das aktuelle Projekt im Dählhölzli und über den Luchs im Allgemeinen wird in dieser Reportage besprochen.
+Eine Reportage von Jaël Zurfluh, Bern
+
 ![Abbildung 1 Luchs im Schnee @Artur Pawlak](lynx-79_1280.jpg "Abbildung 1 Luchs im Schnee @Artur Pawlak")
 
 Für gewöhnlich sind Gehege in Zoos gut einsehbar, damit die Besucher gut hineinsehen und die Tiere beobachten können. Dies ist im Moment aber anders beim Luchsgehege des Dählhölzlis. Es wurden Büsche und kleinere Bäume vor den Zaun gepflanzt, die die Sicht auf das Gehege erschweren. Sowieso muss man Glück haben, die Luchse überhaupt mal zu erspähen. Oft wenn man vor dem Gehege steht, läuft vielleicht ab und zu mal ein Jogger oder ein Spaziergänger vorbei, aber von den Luchsen sieht nichts, aber in der Luft liegt ein typisch verräterischer Duft einer Katze, die ihr Revier markiert.
