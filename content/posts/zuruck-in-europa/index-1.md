@@ -4,7 +4,7 @@ date = "2023-05-11"
 draft = false
 pinned = false
 image = "2.7.jpg"
-description = "Nachdem der Luchs Anfang des 20. Jahrhunderts in Westeuropa ausgerottet wurde, ist er jetzt wieder zurückgekehrt. Diese Rückkehr ist aber nicht ganz so einfach, wie man es sich wünschen würde. Über die Herausforderungen der Wiederansiedlung, das aktuelle Projekt im Dählhölzli und über den Luchs im Allgemeinen wird in dieser Reportage besprochen.\nEine Reportage von Jaël Zurfluh, Bern"
+description = "Nachdem der Luchs Anfang des 20. Jahrhunderts in Westeuropa ausgerottet wurde, ist er jetzt wieder zurückgekehrt. Diese Rückkehr ist aber nicht ganz so einfach, wie man es sich wünschen würde. Über die Herausforderungen der Wiederansiedlung, das aktuelle Projekt im Dählhölzli und über den Luchs im Allgemeinen wird in dieser Reportage gesprochen.\nEine Reportage von Jaël Zurfluh, Bern"
 +++
 # Der Luchs ist wieder da!
 
@@ -18,7 +18,7 @@ Eine Reportage von Jaël Zurfluh, Bern
 
 ![Abbildung 1 Luchs im Schnee @Artur Pawlak](lynx-79_1280.jpg "Abbildung 1 Luchs im Schnee @Artur Pawlak")
 
-Für gewöhnlich sind Gehege in Zoos gut einsehbar, damit die Besucher gut hineinsehen und die Tiere beobachten können. Dies ist im Moment aber anders beim Luchsgehege des Dählhölzlis. Es wurden Büsche und kleinere Bäume vor den Zaun gepflanzt, die die Sicht auf das Gehege erschweren. Sowieso muss man Glück haben, die Luchse überhaupt mal zu erspähen. Oft wenn man vor dem Gehege steht, läuft vielleicht ab und zu mal ein Jogger oder ein Spaziergänger vorbei, aber von den Luchsen sieht nichts, aber in der Luft liegt ein typisch verräterischer Duft einer Katze, die ihr Revier markiert.
+Für gewöhnlich sind Gehege in Zoos gut einsehbar, damit die Besucher gut hineinsehen und die Tiere beobachten können. Dies ist im Moment aber anders beim Luchsgehege des Dählhölzlis. Es wurden Büsche und kleinere Bäume vor den Zaun gepflanzt, die die Sicht auf das Gehege erschweren. Sowieso muss man Glück haben, die Luchse überhaupt mal zu erspähen. Oft wenn man vor dem Gehege steht, läuft vielleicht ab und zu mal ein Jogger oder ein Spaziergänger vorbei, aber von den Luchsen sieht man nichts, aber in der Luft liegt ein typisch verräterischer Duft einer Katze, die ihr Revier markiert.
 
 Die beiden Luchse im Gehege sind erst seit Februar hier in Bern, ein Weibchen und ein Männchen. Die beiden Tiere sind Teil eines Projektes, welches zum Ziel hat, den Nachwuchs der beiden Katzen auszuwildern.  Genaueres über das Projekt erzählt mir Kristina Vogt von KORA, und Dina Gebhardt, Zuchtbuchführerin des Eurasischen Luchses. Dina kümmert sich in den europäischen Zoos darum, dass die genetische Vielfalt der Luchse hoch bleibt, indem sie sicher geht, dass in Zoos beispielsweise unter den Tieren keine Inzucht vorkommt. Sie ist also eine Art Verkupplerin für Luchse, erklärt sie mir, während wir im warmen und feuchten Vivarium des Tierparks Bern, in einem Pausenraum für die Mitarbeiter sitzen.
 
@@ -64,4 +64,4 @@ Wie man bereits aus der Erzählung am Anfang schliessen kann, ist es sogar im Zo
 
 ![Abbildung 4 Luchsspuren im Schnee @Jaël Zurfluh](signal-2023-01-21-170150-1.jpeg "Abbildung 4 Luchsspuren im Schnee @Jaël Zurfluh")
 
-Angst muss man vor der grössten Wildkatze der Schweiz gottseidank nicht haben, Luchse halten sich stehts eher zurück. Auch Vorfälle mit Nutztieren sind bei Luchsen eher eine Seltenheit. Ein toller Fact, den Dina nach dem Interview noch erwähnt hat, war, dass in der Schweiz die meisten Leute noch nie einen Luchs gesehen haben aber wahrscheinlich schon mal von einem Luchs beobachtet wurden.
+Angst muss man vor der grössten Wildkatze der Schweiz gottseidank nicht haben, Luchse halten sich stehts eher zurück. Auch Vorfälle mit Nutztieren sind bei Luchsen eher eine Seltenheit. Zum Abschluss gibt es noch einen tollen Fact, den Dina nach dem Interview noch erwähnt hat, war, dass in der Schweiz die meisten Leute noch nie einen Luchs gesehen haben aber wahrscheinlich schon mal von einem Luchs beobachtet wurden, wenn sie im Wald unterwegs waren.
