@@ -8,11 +8,11 @@ description = "Nachdem der Luchs Anfang des 20. Jahrhunderts in Westeuropa ausge
 +++
 # Der Luchs ist wieder da!
 
-`{{<lead>}}`
+``
 
 Nachdem der Luchs Anfang des 20. Jahrhunderts in Westeuropa ausgerottet wurde, ist er jetzt wieder zurückgekehrt. Diese Rückkehr ist aber nicht ganz so einfach, wie man es sich wünschen würde. Über die Herausforderungen der Wiederansiedlung, das aktuelle Projekt im Dählhölzli und über den Luchs im Allgemeinen wird in dieser Reportage besprochen.
 
-`{{</lead>}}`
+``
 
 Eine Reportage von Jaël Zurfluh, Bern
 
