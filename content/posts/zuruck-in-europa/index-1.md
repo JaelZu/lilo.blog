@@ -8,11 +8,9 @@ description = "Nachdem der Luchs Anfang des 20. Jahrhunderts in Westeuropa ausge
 +++
 # Der Luchs ist wieder da!
 
-{{<lead>}}
-
 Nachdem der Luchs Anfang des 20. Jahrhunderts in Westeuropa ausgerottet wurde, ist er jetzt wieder zurückgekehrt. Diese Rückkehr ist aber nicht ganz so einfach, wie man es sich wünschen würde. Über die Herausforderungen der Wiederansiedlung, das aktuelle Projekt im Dählhölzli und über den Luchs im Allgemeinen wird in dieser Reportage besprochen.
 
-{{/<lead>}}
+
 Eine Reportage von Jaël Zurfluh, Bern
 
 ![Abbildung 1 Luchs im Schnee @Artur Pawlak](lynx-79_1280.jpg "Abbildung 1 Luchs im Schnee @Artur Pawlak")
@@ -21,11 +19,7 @@ Für gewöhnlich sind Gehege in Zoos gut einsehbar, damit die Besucher gut hinei
 
 Die beiden Luchse im Gehege sind erst seit Februar hier in Bern, ein Weibchen und ein Männchen. Die beiden Tiere sind Teil eines Projektes, welches zum Ziel hat, den Nachwuchs der beiden Katzen auszuwildern.  Genaueres über das Projekt erzählt mir Kristina Vogt von KORA, und Dina Gebhardt, Zuchtbuchführerin des Eurasischen Luchses. Dina kümmert sich in den europäischen Zoos darum, dass die genetische Vielfalt der Luchse hoch bleibt, indem sie sicher geht, dass in Zoos beispielsweise unter den Tieren keine Inzucht vorkommt. Sie ist also eine Art Verkupplerin für Luchse, erklärt sie mir, während wir im warmen und feuchten Vivarium des Tierparks Bern, in einem Pausenraum für die Mitarbeiter sitzen.
 
-`{{<box>}}`
-
 KORA ist eine Stiftung, die sich mit der Raubtierökologie und Wildtiermanagement in der Schweiz beschäftigt.
-
-`{{</box>}}`
 
 ## Das Problem der Gene
 
