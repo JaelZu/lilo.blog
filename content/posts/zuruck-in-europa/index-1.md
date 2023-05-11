@@ -64,4 +64,4 @@ Wie man bereits aus der Erzählung am Anfang schliessen kann, ist es sogar im Zo
 
 ![Abbildung 4 Luchsspuren im Schnee @Jaël Zurfluh](signal-2023-01-21-170150-1.jpeg "Abbildung 4 Luchsspuren im Schnee @Jaël Zurfluh")
 
-Angst muss man vor der grössten Wildkatze der Schweiz gottseidank nicht haben, Luchse halten sich stehts eher zurück. Auch Vorfälle mit Nutztieren sind bei Luchsen eher eine Seltenheit. Zum Abschluss gibt es noch einen tollen Fact, den Dina nach dem Interview noch erwähnt hat, war, dass in der Schweiz die meisten Leute noch nie einen Luchs gesehen haben aber wahrscheinlich schon mal von einem Luchs beobachtet wurden, wenn sie im Wald unterwegs waren.
+Angst muss man vor der grössten Wildkatze der Schweiz gottseidank nicht haben, Luchse halten sich oft eher zurück. Auch Vorfälle mit Nutztieren sind bei Luchsen eher eine Seltenheit. Zum Abschluss gibt es noch einen tollen Fact, den Dina nach dem Interview noch erwähnt hat, war, dass in der Schweiz die meisten Leute noch nie einen Luchs gesehen haben aber wahrscheinlich schon mal von einem Luchs beobachtet wurden, wenn sie im Wald unterwegs waren.
