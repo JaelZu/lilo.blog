@@ -44,6 +44,8 @@ Bei vielen kommt wohl schnell die Frage auf, wie wahrscheinlich es überhaupt is
 
 Natürlich gibt es jetzt schon Massnahmen, die diese Ansprüche an das Verhalten der Jungluchse begünstigen sollen. Die erste Massnahme sei nämlich das Gehege selbst, berichtet Dina Gebhardt. Man habe in ganz Europa geschaut, welche Anlagen in Zoos sich überhaupt für die Zucht von Luchsen eignen würden, die ausgewildert werden sollen. Die Anlage müsse gross sein, sowie auch naturnah und die Anlage sollte nicht von mehreren Seiten einsehbar sein. «Einsehbar wäre nicht das Problem, aber solange die Besucher reinsehen können, können die Luchse auch hinausschauen. Also die Luchse sollen wirklich nicht an Menschen gewöhnt werden.» erläutert Gebhardt. Wenn voraussichtlich im Mai die Jungtiere auf die Welt kommen, dürfen auch keine Tierpflegenden mehr in die Anlage, ausser es sei zwingend notwendig. Ab ebenfalls diesem Zeitraum werden die Luchse nur noch mit Wildtieren gefüttert. Der Gedanke dahinter ist, dass die Jungtiere auf Fleisch von wilden Tieren geprägt werden sollen. Wenn sie sich zum Beispiel an Hühnerfleisch gewöhnen würden und später nach ihrer Freilassung Lust auf dieses hätten, wäre die Wahrscheinlichkeit sehr gross, dass sie in Konflikt mit Menschen geraten würden.
 
+![Abbildung 4 Gehege im Dählhölzli @Jaël Zurfluh](2.7.jpg)
+
 Da es eine politische Frage ist, ist es schwer zu sagen, ob so ein Auswilderungsprojekt auch für die Schweiz kommen wird. Vogt meint allerdings «längerfristig müsste man eigentlich aus wissenschaftlicher Sicht auch in der Schweiz frische Luchse freilassen, welche die genetische Situation verbessern könnten. Obwohl sich der Bestand gut entwickelt, sind Luchse immer noch geschützt und längerfristig kann die genetische Situation der Tiere schon ein Problem werden».
 
 ## Die Geschichte des Luchses
@@ -60,6 +62,6 @@ Auch Kristina Vogt sagt: «Ja Wilderei gibt es nach wie vor. Nicht nur in der Sc
 
 Wie man bereits aus der Erzählung am Anfang schliessen kann, ist es sogar im Zoo sehr schwer einen Luchs zu erspähen. Obwohl er mittlerweile sogar in Regionen lebt, die nah von dichtbesiedelten Gebieten sind wie Bern, wird es schwierig sein eine der Pinselohren in freier Natur zu Gesicht zu bekommen. Trotzdem sollte man immer die Augen offenhalten, wenn man im Wald unterwegs ist, besonders in den Wintermonaten hat man die Chance Spuren im Schnee entdecken zu können. Auch ein Indiz kann der Geruch der Tiere sein, wenn man einer Stelle vorbeikommt, wo der Luchs sein Revier markiert hat. 
 
-![Abbildung 4 Luchsspuren im Schnee, die untere ist vom Luchs @Jaël Zurfluh](signal-2023-01-21-170150-1.jpeg "Abbildung 4 Luchsspuren im Schnee @Jaël Zurfluh")
+![Abbildung 5 Luchsspuren im Schnee, die Untere ist vom Luchs @Jaël Zurfluh](signal-2023-01-21-170150-1.jpeg "Abbildung 4 Luchsspuren im Schnee @Jaël Zurfluh")
 
 Angst muss man vor der grössten Wildkatze der Schweiz gottseidank nicht haben, Luchse halten sich oft eher zurück. Auch Vorfälle mit Nutztieren sind bei Luchsen eher eine Seltenheit. Zum Abschluss gibt es noch einen tollen Fact, den Dina nach dem Interview noch erwähnt hat, war, dass in der Schweiz die meisten Leute noch nie einen Luchs gesehen haben aber wahrscheinlich schon mal von einem Luchs beobachtet wurden, wenn sie im Wald unterwegs waren.
