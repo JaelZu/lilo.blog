@@ -4,7 +4,7 @@ date = "2023-05-11"
 draft = false
 pinned = false
 image = "2.7.jpg"
-description = "Nachdem der Luchs Anfang des 20. Jahrhunderts in Westeuropa ausgerottet wurde, ist er jetzt wieder zurückgekehrt. Diese Rückkehr ist aber nicht ganz so einfach, wie man es sich wünschen würde. Über die Herausforderungen der Wiederansiedlung, das aktuelle Projekt im Dählhölzli und über den Luchs im Allgemeinen wird in dieser Reportage gesprochen.\nEine Reportage von Jaël Zurfluh, Bern"
+description = "Nachdem der Luchs Anfang des 20. Jahrhunderts in Westeuropa ausgerottet wurde, ist er jetzt wieder zurückgekehrt. Diese Rückkehr ist aber nicht ganz so einfach, wie man es sich wünschen würde. Die Herausforderungen der Wiederansiedlung, das aktuelle Projekt im Dählhölzli und über den Luchs im Allgemeinen wird in dieser Reportage besprochen.\nEine Reportage von Jaël Zurfluh, Bern"
 +++
 # Der Luchs ist wieder da!
 
