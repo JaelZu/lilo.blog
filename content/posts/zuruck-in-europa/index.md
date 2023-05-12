@@ -60,7 +60,7 @@ Auch Kristina Vogt sagt: «Ja Wilderei gibt es nach wie vor. Nicht nur in der Sc
 
 ## Direkter Einfluss auf uns
 
-Wie man bereits aus der Erzählung am Anfang schliessen kann, ist es sogar im Zoo sehr schwer einen Luchs zu erspähen. Obwohl er mittlerweile sogar in Regionen lebt, die nah von dichtbesiedelten Gebieten sind wie Bern, wird es schwierig sein eine der Pinselohren in freier Natur zu Gesicht zu bekommen. Trotzdem sollte man immer die Augen offenhalten, wenn man im Wald unterwegs ist, besonders in den Wintermonaten hat man die Chance Spuren im Schnee entdecken zu können. Auch ein Indiz kann der Geruch der Tiere sein, wenn man einer Stelle vorbeikommt, wo der Luchs sein Revier markiert hat. 
+Wie man bereits aus der Erzählung am Anfang schliessen kann, ist es sogar im Zoo sehr schwer einen Luchs zu erspähen. Obwohl er mittlerweile sogar in Regionen lebt, die nah von dichtbesiedelten Gebieten sind wie Bern, wird es schwierig sein eine der Pinselohren in freier Natur zu Gesicht zu bekommen. Trotzdem sollte man immer die Augen offenhalten, wenn man im Wald unterwegs ist, besonders in den Wintermonaten hat man die Chance Spuren im Schnee entdecken zu können. Auch ein Indiz kann der Geruch der Tiere sein, wenn man an einer Stelle vorbeikommt, wo der Luchs sein Revier markiert hat. 
 
 ![Abbildung 5 Spuren im Schnee. (Ulmiz) Die untere Spur ist vom Luchs @Jaël Zurfluh](signal-2023-01-21-170150-1.jpeg "Abbildung 4 Luchsspuren im Schnee @Jaël Zurfluh")
 
