@@ -10,7 +10,7 @@ description = "Nachdem der Luchs Anfang des 20. Jahrhunderts in Westeuropa ausge
 
 {{<lead>}}
 
-Nachdem der Luchs Anfang des 20. Jahrhunderts in Westeuropa ausgerottet wurde, ist er jetzt wieder zurückgekehrt. Diese Rückkehr ist aber nicht ganz so einfach, wie man es sich wünschen würde. Über die Herausforderungen der Wiederansiedlung, das aktuelle Projekt im Dählhölzli und über den Luchs im Allgemeinen wird in dieser Reportage besprochen.
+Nachdem der Luchs Anfang des 20. Jahrhunderts in Westeuropa ausgerottet wurde, ist er jetzt wieder zurückgekehrt. Diese Rückkehr ist aber nicht ganz so einfach, wie man es sich wünschen würde. Die Herausforderungen der Wiederansiedlung, das aktuelle Projekt im Dählhölzli und über den Luchs im Allgemeinen wird in dieser Reportage gesprochen.
 
 {{</lead>}}
 
