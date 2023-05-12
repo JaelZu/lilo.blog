@@ -62,6 +62,6 @@ Auch Kristina Vogt sagt: «Ja Wilderei gibt es nach wie vor. Nicht nur in der Sc
 
 Wie man bereits aus der Erzählung am Anfang schliessen kann, ist es sogar im Zoo sehr schwer einen Luchs zu erspähen. Obwohl er mittlerweile sogar in Regionen lebt, die nah von dichtbesiedelten Gebieten sind wie Bern, wird es schwierig sein eine der Pinselohren in freier Natur zu Gesicht zu bekommen. Trotzdem sollte man immer die Augen offenhalten, wenn man im Wald unterwegs ist, besonders in den Wintermonaten hat man die Chance Spuren im Schnee entdecken zu können. Auch ein Indiz kann der Geruch der Tiere sein, wenn man einer Stelle vorbeikommt, wo der Luchs sein Revier markiert hat. 
 
-![Abbildung 5 Luchsspuren im Schnee, die Untere ist vom Luchs @Jaël Zurfluh](signal-2023-01-21-170150-1.jpeg "Abbildung 4 Luchsspuren im Schnee @Jaël Zurfluh")
+![Abbildung 5 Spuren im Schnee, die untere Spur ist vom Luchs @Jaël Zurfluh](signal-2023-01-21-170150-1.jpeg "Abbildung 4 Luchsspuren im Schnee @Jaël Zurfluh")
 
 Angst muss man vor der grössten Wildkatze der Schweiz gottseidank nicht haben, Luchse halten sich oft eher zurück. Auch Vorfälle mit Nutztieren sind bei Luchsen eher eine Seltenheit. Zum Abschluss gibt es noch einen tollen Fact, den Dina nach dem Interview noch erwähnt hat, war, dass in der Schweiz die meisten Leute noch nie einen Luchs gesehen haben aber wahrscheinlich schon mal von einem Luchs beobachtet wurden, wenn sie im Wald unterwegs waren.
