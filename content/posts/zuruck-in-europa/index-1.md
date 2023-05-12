@@ -50,8 +50,6 @@ Da es eine politische Frage ist, ist es schwer zu sagen, ob so ein Auswilderungs
 
 Dass der Luchs heute in dieser Lage steckt, hat er uns Menschen zu verdanken. Interessanterweise nimmt der Luchs im Vergleich zum Wolf und Bären kulturhistorisch nur eine Nebenrolle ein. Der Luchs kommt beispielsweise viel seltener in Märchen, Sagen und Mythen vor als der Wolf. Dies war aber für den Luchs immer eher positiv, da die Sichtweise der Menschen ihm gegenüber weniger kulturell geprägt war. In der Jagdliteratur wird der Luchs oft als Konkurrent des Jägers angesehen, aber auch als eine gute Beute.
 
-![]()
-
 Hauptursache für die Ausrottung des Luchses war, dass Raubtieren wie dem Luchs ganz generell Eigenschaften wie Mordlust und Blutdurst zugeschrieben wurden und es bis in das 19. Jahrhundert als Christenpflicht angesehen wurde, diese zu jagen und zu bekämpfen. Diese Motivation wurde durch Abschussprämien noch erhöht. Dazu beigetragen hat auch noch der Rückgang der Waldfläche und der Beutetiere.  
 
 Heute hat sich die Einstellung Wildtieren gegenüber verändert, Raubtiere zum Beispiel werden normalerweise nicht mehr als blutrünstige Kreaturen angesehen. Was aber geblieben ist, ist die Konkurrenz von Luchsen gegenüber den Jägern. Ein Luchs frisst etwa ein Reh pro Woche. In einem Gebiet, in dem die Luchse den Bestand der Rehe usw. regulieren, dürfen Jäger nicht mehr jagen. Dies ist laut einer Umfrage in Tschechien der Hauptgrund für die Wilderei an Luchsen. Der zweithäufigste Grund sei der Trophäenstatus, welchen ein Luchs und sein Pelz haben.
